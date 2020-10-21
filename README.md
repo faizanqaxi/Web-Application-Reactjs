@@ -1,5 +1,6 @@
 # Web-Application-with-Reactjs
-move to the project folder in the terminal and do the following to install the node modules :
+First download and install yarn. 
+Then move to the project folder in the terminal and do the following to install the node modules :
 
 yarn install --ignore-engines
 
