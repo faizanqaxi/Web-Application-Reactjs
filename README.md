@@ -1,6 +1,6 @@
 # Web-Application-with-Reactjs
 
-* Developed a Client Side web application for a restaurant using React
+* Developed a Client Side Web Application for a restaurant using React
 * Used React Router, React Forms, Fetch, Client Server Communication, Redux, React Animations Redux Thunk and more
 
 First download and install yarn. 
